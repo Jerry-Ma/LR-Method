@@ -1,0 +1,28 @@
+{
+  "mainFile": "main.py", 
+  "venv": "/home/ma/Codes/virtualenv_1/LR/bin/python", 
+  "relatedProjects": [], 
+  "name": "LR-Method", 
+  "license": "Other", 
+  "url": "", 
+  "pythonPath": "python", 
+  "preExecScript": "", 
+  "programParams": "", 
+  "PYTHONPATH": "/home/ma/Codes/virtualenv_1/LR/lib/python2.7/site-packages", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini", 
+    ".fits", 
+    ".txt"
+  ], 
+  "project-type": "astronomy", 
+  "postExecScript": "", 
+  "description": "Realization of likelihood ratio method"
+}
